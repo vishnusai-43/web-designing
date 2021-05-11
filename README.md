@@ -14,6 +14,7 @@ first repository
      1. whole numbers
      2. integers 
      3. natural numbers
-     4.
-  
+     
+
+![Taj mahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)  
   
