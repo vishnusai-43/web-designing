@@ -18,3 +18,19 @@ first repository
      
    ![Taj mahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)  
   
+**bold**
+***italic Bold***
+
+
+#  unordered list
+* fruits
+  * mangoes 
+  * bananas
+  * apples
+
+![naruto](https://www.anime-planet.com/images/anime/covers/naruto-22.jpg)
+
+
+[Google](
+
+```
